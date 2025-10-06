@@ -45,17 +45,32 @@
 ---
 
 ## 🏆 Competitive Programming Stats  
+<div>
+<div align="left">
+  <h3>LeetCode</h3>
+  <img src="https://leetcode-stats.vercel.app/api?username=Mohanraj111&theme=dark&show_icons=true">
+</div>
 
-###  LeetCode
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Mohanraj111&theme=dark&show_icons=true)
+<div align="right">
+<h3>CodeChef</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Problems%20Solved-627-brightgreen?style=for-the-badge&logo=codechef"><br><br>
+        <img src="https://img.shields.io/badge/Contests%20Attended-64-blue?style=for-the-badge&logo=codechef"><br><br>
+        <img src="https://img.shields.io/badge/Active%20Days-200-orange?style=for-the-badge&logo=codechef">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Max%20Rating-1450-yellow?style=for-the-badge&logo=codechef"><br><br>
+        <img src="https://img.shields.io/badge/Current%20Rating-1425-red?style=for-the-badge&logo=codechef"><br><br>
+        <img src="https://img.shields.io/badge/Division-Div%203-purple?style=for-the-badge&logo=codechef">
+      </td>
+    </tr>
+  </table>
+</div>
+</div>
 
-###  CodeChef
--  Problems Solved: 627  
--  Contests Attended: 64
--  Active Days: 200  
--  Max Rating: 1450  
--  Current Rating: 1425
--  Division: Div 3  
+
 
 👉 [CodeChef/kit23bam030](https://www.codechef.com/users/kit23bam030)  
 
