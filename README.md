@@ -20,7 +20,17 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,java,firebase,mysql)](#)
 
 ### 📊 AI/ML Tools  
-[![My Skills](https://skillicons.dev/icons?i=numpy,pandas)](#)
+<p align="left">
+  <!-- NumPy -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/>
+  
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+  [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,jupyter)](#)
+</p>
+
+
+
 
 ---
 
