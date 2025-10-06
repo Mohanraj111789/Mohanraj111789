@@ -26,10 +26,10 @@
 
 ## 🏆 Competitive Programming Stats  
 
-### 🌟 LeetCode
+###  LeetCode
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Mohanraj111&theme=dark&show_icons=true)
 
-### 🌟 CodeChef
+###  CodeChef
 -  Problems Solved: 627  
 -  Contests Attended: 64
 -  Active Days: 200  
@@ -39,7 +39,7 @@
 
 👉 [CodeChef/kit23bam030](https://www.codechef.com/users/kit23bam030)  
 
-### 🌟 Codolio Portfolio  
+###  Codolio Portfolio  
 📌 [Check My Codolio Portfolio](https://codolio.com/profile/Mohanraj)  
 
 ---
