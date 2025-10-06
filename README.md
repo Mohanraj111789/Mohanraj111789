@@ -51,7 +51,7 @@
   <img src="https://leetcode-stats.vercel.app/api?username=Mohanraj111&theme=dark&show_icons=true">
 </div>
 
-<div align="right">
+<div align="">
 <h3>CodeChef</h3>
   <table>
     <tr>
