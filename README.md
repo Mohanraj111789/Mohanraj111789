@@ -19,7 +19,27 @@
 ### ⚙ Backend & Database  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,java,firebase,mysql)](#)  
 
-### 📊 AI/ML Tools  
+### 🧠 AI / ML Tools
+
+<p align="left">
+  <!-- TensorFlow -->
+  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="55" height="55"/>
+
+  
+  <!-- NumPy -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55"/>
+
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/>
+
+
+  <!-- Jupyter -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="55" height="55"/>
+
+  <!-- OpenCV -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="75" height="55"/>
+</p>
+
 
 
 ---
