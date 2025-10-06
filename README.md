@@ -58,12 +58,12 @@
 
 <p align="left">
   <!-- LeetCode -->
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+  <a href="https://leetcode.com/Mohanraj111" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+  <a href="https://www.codechef.com/users/kit23bam030" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 
