@@ -5,8 +5,10 @@
 
 
 </div>
-
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" width="30%">
+</picture>
 
 ## 🔧 Technical Skills  
 
