@@ -54,6 +54,35 @@
 📌 [Check My Codolio Portfolio](https://codolio.com/profile/Mohanraj)  
 
 ---
+## 💻 Coding Platforms
+
+<p align="left">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
 
 ## 📂 Featured Projects  
 
