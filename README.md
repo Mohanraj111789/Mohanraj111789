@@ -41,12 +41,12 @@
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Mohanraj111&theme=dark&show_icons=true)
 
 ### 🌟 CodeChef
-- ✅ Problems Solved: 627  
-- 🏆 Contests Attended: 64
-- 🔥 Active Days: 200  
-- 🥇 Max Rating: 1450  
-- 🎯 Current Rating: 1425
-- 💥 Division: Div 3  
+-  Problems Solved: 627  
+-  Contests Attended: 64
+-  Active Days: 200  
+-  Max Rating: 1450  
+-  Current Rating: 1425
+-  Division: Div 3  
 
 👉 [CodeChef/kit23bam030](https://www.codechef.com/users/kit23bam030)  
 
@@ -140,7 +140,7 @@
 ### 💡 Fun Fact
 "Every solved problem is one step closer to mastery in the art of coding!"
 
-⭐ From [Mohanraj111789](https://github.com/Mohanraj111789)
+ From [Mohanraj111789](https://github.com/Mohanraj111789)
 
 </div>
 
