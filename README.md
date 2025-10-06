@@ -68,13 +68,8 @@
   </a>
 
   <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/mohanraj111" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 
   <!-- HackerRank -->
