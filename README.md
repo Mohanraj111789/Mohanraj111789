@@ -142,7 +142,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohanraj111789&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5&ring_color=4F46E5&border_color=4F46E5" alt="GitHub Stats" />
+<img width="49%" height="2500"  src="https://github-readme-stats.vercel.app/api?username=Mohanraj111789&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5&ring_color=4F46E5&border_color=4F46E5" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanraj111789&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&border_color=4F46E5" alt="Top Languages" />
 
 </div>
