@@ -11,35 +11,41 @@
 ## 🔧 Technical Skills  
 
 ### 💻 Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c)](#)
+[![Python](https://skillicons.dev/icons?i=python)](#)
+[![C++](https://skillicons.dev/icons?i=cpp)](#)
+[![C](https://skillicons.dev/icons?i=c)](#)
+[![Java](https://skillicons.dev/icons?i=java)](#)
 
 ### 🎨 Frontend Development  
-[![My Skills](https://skillicons.dev/icons?i=html,css,react)](#)
+[![HTML](https://skillicons.dev/icons?i=html)](#)
+[![CSS](https://skillicons.dev/icons?i=css)](#)
+[![React](https://skillicons.dev/icons?i=react)](#)
 
 ### ⚙ Backend & Database  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,firebase,mysql)](#)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](#)
+[![Java](https://skillicons.dev/icons?i=java)](#)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](#)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](#)
 
-### 📊 AI/ML Tools  
+### 📊 AI / ML Tools  
 
-<p align="left">
-  <!-- TensorFlow -->
-  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="55" height="55"/>
+<table width="100%">
+  <tr>
+    <!-- Left side -->
+    <td align="left">
+      <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="55" height="55"/>
+    </td>
 
-  <!-- PyTorch -->
-  
-
-  <!-- NumPy -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55"/>
-
-  <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/>
-
-  <!-- Jupyter -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="55" height="55"/>
-
-  <!-- OpenCV -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="75" height="55"/>
-</p>
+    <!-- Right side -->
+    <td align="right">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="75" height="55"/>
+    </td>
+  </tr>
+</table>
 
 
 
