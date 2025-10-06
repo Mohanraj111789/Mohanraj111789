@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=200&section=header&text=Mohanraj%20S&fontSize=55&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Web%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=4F46E5&strokeWidth=2" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=💡+AI+%26+Machine+Learning+Explorer;🚀+Full-Stack+Web+Developer;⚡+Div+3+Competitive+Programmer;🌟+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Explorer;Full-Stack+Web+Developer;⚡+Div+3+Competitive+Programmer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
