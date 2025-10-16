@@ -18,7 +18,7 @@
 ### 🎨 Frontend Development  
 [![My Skills](https://skillicons.dev/icons?i=html,css,react)](#)  
 
-### ⚙ Backend & Database  
+### ⚙ Backend & Database
 [![My Skills](https://skillicons.dev/icons?i=nodejs,java,firebase,mysql)](#)  
 
 ### 🧠 AI / ML Tools
