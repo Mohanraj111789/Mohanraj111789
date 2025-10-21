@@ -11,7 +11,6 @@
   <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" width="30%">
 </picture>
 <br />
-
 ## 🔧 Technical Skills  
 
 ### Programming Languages &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend Development  
