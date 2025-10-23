@@ -10,8 +10,8 @@
   <source media="(prefers-color-scheme: light)" srcset="./Qf0c_white.gif">
   <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" width="30%">
 </picture>
-<br />
-## 🔧 Technical Skills  
+<br>
+🔧 Technical Skills  
 
 ### Programming Languages &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend Development  
 <a href="#"><img src="https://skillicons.dev/icons?i=python,java,cpp,c" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
