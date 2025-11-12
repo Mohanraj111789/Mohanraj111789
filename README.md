@@ -13,7 +13,6 @@
 <br>
 🔧 Technical Skills  
 
-
 ### Programming Languages &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend Development  
 <a href="#"><img src="https://skillicons.dev/icons?i=python,java,cpp,c" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://skillicons.dev/icons?i=html,css,react" /></a>
