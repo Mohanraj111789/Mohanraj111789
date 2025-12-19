@@ -37,8 +37,8 @@
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/Problems%20Solved-627-brightgreen?style=for-the-badge&logo=codechef"><br><br>
-        <img src="https://img.shields.io/badge/Contests%20Attended-64-blue?style=for-the-badge&logo=codechef"><br><br>
-        <img src="https://img.shields.io/badge/Active%20Days-200-orange?style=for-the-badge&logo=codechef">
+        <img src="https://img.shields.io/badge/Contests%20Attended-71-blue?style=for-the-badge&logo=codechef"><br><br>
+        <img src="https://img.shields.io/badge/Active%20Days-200+-orange?style=for-the-badge&logo=codechef">
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Max%20Rating-1593-yellow?style=for-the-badge&logo=codechef"><br><br>
