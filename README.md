@@ -80,30 +80,6 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
-
-
-## 📂 Featured Projects  
-
-<a href="https://github.com/Mohanraj111789/income-expenseJava">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohanraj111789&repo=income-expenseJava&theme=dark&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
-<a href="https://github.com/Mohanraj111789/to-do">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohanraj111789&repo=to-do&theme=dark&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
-<a href="https://github.com/Mohanraj111789/accassistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohanraj111789&repo=accassistant&theme=dark&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
-<a href="https://github.com/Mohanraj111789/Movies-and-shows">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohanraj111789&repo=Movies-and-shows&theme=dark&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
-<a href="https://github.com/Mohanraj111789/Canteen-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohanraj111789&repo=Canteen-Management&theme=dark&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
-<a href="https://github.com/Mohanraj111789/Smart-Image-Search">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohanraj111789&repo=Smart-Image-Search&theme=dark&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" />
-</a>
----
-
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
