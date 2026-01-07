@@ -41,8 +41,8 @@
         <img src="https://img.shields.io/badge/Active%20Days-200+-orange?style=for-the-badge&logo=codechef">
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Max%20Rating-1593-yellow?style=for-the-badge&logo=codechef"><br><br>
-        <img src="https://img.shields.io/badge/Current%20Rating-1593-red?style=for-the-badge&logo=codechef"><br><br>
+        <img src="https://img.shields.io/badge/Max%20Rating-1644-yellow?style=for-the-badge&logo=codechef"><br><br>
+        <img src="https://img.shields.io/badge/Current%20Rating-1644-red?style=for-the-badge&logo=codechef"><br><br>
         <img src="https://img.shields.io/badge/Division-Div%202-purple?style=for-the-badge&logo=codechef">
       </td>
     </tr>
