@@ -43,7 +43,7 @@
       <td align="center">
         <img src="https://img.shields.io/badge/Max%20Rating-1593-yellow?style=for-the-badge&logo=codechef"><br><br>
         <img src="https://img.shields.io/badge/Current%20Rating-1593-red?style=for-the-badge&logo=codechef"><br><br>
-        <img src="https://img.shields.io/badge/Division-Div%203-purple?style=for-the-badge&logo=codechef">
+        <img src="https://img.shields.io/badge/Division-Div%202-purple?style=for-the-badge&logo=codechef">
       </td>
     </tr>
   </table>
